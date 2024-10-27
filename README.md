@@ -29,4 +29,4 @@ I'm a **Developer** focused on **Project Management** and **Digital Marketing**,
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sylvain-brissaud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sylvain-brissaud/" height="30" width="40" /></a>
 </p>
 
-### Thank you for checking out my profile. Let’s build and innovate together!
+Thank you for checking out my profile. Let’s build and innovate together!
