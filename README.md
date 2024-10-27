@@ -7,10 +7,13 @@ I'm a **Developer** focused on **Project Management** and **Digital Marketing**,
 
 ### 🛠️ Skills & Tools
 
-| **Tech Stack**        | **Tools**           | **Methodologies** |
-|-----------------------|---------------------|--------------------|
-| ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) | ![Lean Startup](https://img.shields.io/badge/-Lean%20Startup-brightgreen) |
-| ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white) | ![Agile](https://img.shields.io/badge/-Agile-blueviolet) ![Scrum](https://img.shields.io/badge/-Scrum-orange) |
+| **Tech Stack** | **Tools** | **Methodologies** |
+|----------------|-----------|-------------------|
+| ![Python](https://img.shields.io/badge/-Python-blue) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Lean Startup](https://img.shields.io/badge/-Lean%20Startup-brightgreen) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) | ![Agile](https://img.shields.io/badge/-Agile-blueviolet) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) | ![Scrum](https://img.shields.io/badge/-Scrum-orange) |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) | |
+| ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white) | |
 
 ---
 
