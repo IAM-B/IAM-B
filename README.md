@@ -7,8 +7,8 @@ I'm pursuing certification as a **Senior Systems and Networks Technician (TSSR -
 
 I build the bridge between **technical performance** and **community impact**:
 
-* 🧑‍🤝‍🧑 Free solutions for individuals
-* 🧑‍💼 Scalable tools for professionals
+*  Free solutions for individuals
+*  Scalable tools for professionals
 
 ---
 
@@ -70,8 +70,6 @@ Design and prototyping tools I use for creating user interfaces and prototypes.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAM-B&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAM-B&layout=compact&theme=radical" />
 </p>
 
