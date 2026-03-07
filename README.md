@@ -49,8 +49,6 @@ Full-stack developer with a passion for AI integration and automation. Currently
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Mawaqit_API_to_ics](https://github.com/IAM-B/Mawaqit_API_to_ics) | Prayer times API to calendar events converter (50k+ mosques supported) | AdonisJS, TypeScript, Web Scraping |
-| [telegram-safeChat-bot](https://github.com/IAM-B/telegram-safeChat-bot) | Group moderation bot with content filtering & scheduling | Python, Telethon, APScheduler |
 | [telegram-group-management-bot](https://github.com/IAM-B/telegram-group-management-bot) | Automate member management, notifications & scraping | Python, Telethon |
 | [seo-keyword-analysis-bot](https://github.com/IAM-B/seo-keyword-analysis-bot) | SEO keyword analyzer using Google allintitle | Python, Selenium |
 | [Assistant_AI_Localhost](https://github.com/IAM-B/Assistant_AI_Localhost) | Offline voice assistant with speech recognition & LLM | Python, Whisper, Ollama, Coqui TTS |
