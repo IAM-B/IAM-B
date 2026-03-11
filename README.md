@@ -76,14 +76,6 @@ Full-stack developer with a passion for AI integration and automation. Currently
 
 ---
 
-## GitHub Activity
-
-![IAM-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAM-B&show_icons=true&theme=dark&hide_border=true&hide=stars&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAM-B&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvain-brissaud/)
